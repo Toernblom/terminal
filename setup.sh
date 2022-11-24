@@ -11,7 +11,7 @@ sudo git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/
 sudo apt-get install fonts-powerline
 
 > ~/.zshrc
-cat >> h.txt << EOF
+cat >> ~/.zshrc << EOF
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
